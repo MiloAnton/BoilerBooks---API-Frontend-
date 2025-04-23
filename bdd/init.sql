@@ -18,7 +18,7 @@ CREATE TABLE books (
 );
 
 INSERT INTO users (username, password) VALUES
-('admin', '$2b$10$M.kMPH9UXH67itfHTUcrIOJgyRxXaH2RtciXMKmK6m.TfQX/S68d2'),
+('admin', '$2b$10$M.kMPH9UXH67itfHTUcrIOJgyRxXaH2RtciXMKmK6m.TfQX/S68d2');
 -- admin, password123
 
 INSERT INTO books (title, author, year) VALUES
